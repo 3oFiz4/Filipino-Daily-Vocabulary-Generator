@@ -1,0 +1,14 @@
+__pycache__
+.env
+MEMES.txt
+memes.txt
+*.pyc
+
+myenv
+
+*.log
+
+*.pkl
+*.csv
+
+.vscode
